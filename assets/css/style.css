@@ -215,4 +215,30 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
+  @media screen and (max-width: 980px) {
+    
+    #main-container {
+
+        width: 75%;
+        margin-right: 200px;
+        padding-right: 75px;
+        /* height: 200px; */
+    }
+   
+    
+    }
+
+    @media screen and (max-width: 768px) {
+
+        
+   
+    
+    }
+
+    @media screen and (max-width: 640px) {
+   
+    
+    }
+
   
