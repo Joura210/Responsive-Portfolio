@@ -225,18 +225,38 @@ body {
         padding-right: 75px;
         /* height: 200px; */
     }
+
+    #logo {
+
+        margin-left: 35px;
+
+        
+    }
    
     
     }
 
     @media screen and (max-width: 768px) {
 
-        
-   
+    #main-container{
+        /* position: center; */
+        width: 100%;
+        padding: auto 30px;
+        margin: auto 40px;
+        /* border-left:30px; */
+
+
+    }
+
+    #masthead {
+
+        padding-right: 40px;
+    }
     
     }
 
     @media screen and (max-width: 640px) {
+        
    
     
     }
