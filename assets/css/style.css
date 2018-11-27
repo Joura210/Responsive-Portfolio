@@ -253,9 +253,18 @@ body {
         padding-right: 40px;
     }
     
-    }
+    
 
     @media screen and (max-width: 640px) {
+
+  #logo {
+
+    float:none;
+  }
+
+  nav  {
+    float:none;
+  }
 
       
         
